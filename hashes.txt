@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu aliento lejano
+
+This log tracks the cryptographic history and versioning for the song **Tu aliento lejano** (tu-aliento-lejano).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T20:46:36.143906 | `v1` | `d1a9a29ffb1339584aa22478e80fa7be44320f293859abada711450063d6e77c` | `cbfe7c34e3303886633f2c63dec3625072cc4416585ecc534f38d4cd2e89bf98` | `2026-06-18_tu-aliento-lejano-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

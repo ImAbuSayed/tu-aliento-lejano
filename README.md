@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento tu aliento lejano cruzando el salón,
+> rompiendo las reglas, robando mi atención.
+> Tu mirada me llama, me roba la calma,
+> esta noche en Madrid tú te llevas mi alma.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
